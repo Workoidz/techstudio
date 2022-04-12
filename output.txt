@@ -1,0 +1,2 @@
+ Intial candies : 15
+ Total candies (exchanging wrappers) : 21
